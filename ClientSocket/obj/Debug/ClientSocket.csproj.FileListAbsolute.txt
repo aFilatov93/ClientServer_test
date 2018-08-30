@@ -1,0 +1,5 @@
+c:\csharp\ClientServerSockets\ClientSocket\bin\Debug\ClientSocket.exe.config
+c:\csharp\ClientServerSockets\ClientSocket\bin\Debug\ClientSocket.exe
+c:\csharp\ClientServerSockets\ClientSocket\bin\Debug\ClientSocket.pdb
+c:\csharp\ClientServerSockets\ClientSocket\obj\Debug\ClientSocket.exe
+c:\csharp\ClientServerSockets\ClientSocket\obj\Debug\ClientSocket.pdb

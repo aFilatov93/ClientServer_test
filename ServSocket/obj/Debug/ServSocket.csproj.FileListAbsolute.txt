@@ -1,0 +1,6 @@
+c:\csharp\ClientServerSockets\ServSocket\bin\Debug\ServSocket.exe.config
+c:\csharp\ClientServerSockets\ServSocket\bin\Debug\ServSocket.exe
+c:\csharp\ClientServerSockets\ServSocket\bin\Debug\ServSocket.pdb
+c:\csharp\ClientServerSockets\ServSocket\obj\Debug\ServSocket.csprojResolveAssemblyReference.cache
+c:\csharp\ClientServerSockets\ServSocket\obj\Debug\ServSocket.exe
+c:\csharp\ClientServerSockets\ServSocket\obj\Debug\ServSocket.pdb
